@@ -1,6 +1,6 @@
 ## Hi, I'm Kiran👋
 
-⚡ About Me
+*⚡ About Me*
 
 📚 I'm currently studying Biomedical Engineering at Toronto Metropolitan University
 
