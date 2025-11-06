@@ -1,10 +1,10 @@
 ## Hi, I'm Kiran👋
 
-#⚡ About Me
-
 📚 I'm currently studying Biomedical Engineering at Toronto Metropolitan University
 
 🔭 I enjoy exploring how technology can solve real-world challenges
+
+☕ Feel free to get in touch!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YourLinkedIn/">
