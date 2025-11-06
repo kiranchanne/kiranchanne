@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://YourPortfolioWebsite.com">
+  <a href="https://kiranchanne.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-9C27B0?style=for-the-badge&logo=&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
