@@ -1,6 +1,6 @@
 ## Hi, I'm Kiran👋
 
-📚 I'm currently studying Biomedical Engineering at Toronto Metropolitan University
+📚 I'm currently an Electrical and Computer Engineering graduate student at the University of Toronto, completing an emphasis in Data Analytics and Machine Learning. I have also recently obtained an undergraduate degree in Biomedical Engineering at Toronto Metropolitan University.
 
 🔭 I enjoy exploring how technology can solve real-world challenges
 
